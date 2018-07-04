@@ -1,0 +1,12 @@
+name: ChatHelper
+prefix: SEP
+main: dev.thecybercode.plugin.chathelper.code.ChatCore
+description: Inspired by one of the AutCraft plugins.
+version: 0.0.1
+author: TheCyberCode
+website: https://github.com/TheCyberCode
+commands:
+  chatsep:
+    description: Chat Seperators
+    usage: Invalid Usage >> /<command> <player>
+    aliases: [cs, chatseperator, chathelpersep, chathelper, chatlines, linestoggle, toggleseperators]
